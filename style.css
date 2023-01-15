@@ -1,0 +1,50 @@
+body {
+    background-color: #C2DFE3;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+    color: #15616d;
+    font-weight: 700
+    
+}
+
+.nav-link, .navbar-brand {
+    font-weight: 700;
+    color: #5C6B73;
+    font-size: larger;
+}
+
+.icon {
+    height: 50px;
+    width: auto;
+    margin-right: 2em;
+}
+
+.project-image {
+    max-height: 16vw;
+    max-width: 30vw;
+    flex-basis: 40%;
+}
+
+.inlineList {
+    display: flex;
+    flex-direction: row;
+    /* Below sets up your display method: flex-start|flex-end|space-between|space-around */
+    justify-content: flex-start; 
+    /* Below removes bullets and cleans white-space */
+    list-style: none;
+    padding: 0;
+    /* Bonus: forces no word-wrap */
+    white-space: nowrap;
+}
+  
+  li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+  
