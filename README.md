@@ -47,4 +47,4 @@ I am a Business Analytics student specializing at Financial Analytics at NUS.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zarilex09&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarilex09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarilex09&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
